@@ -261,7 +261,3 @@ AI & Data Science Student
 ### Connect with Me
 
 - GitHub: https://github.com/trupthi23
-
----
-
-## ⭐ If you found this project helpful, please consider giving it a star!
